@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomBarChat</string>
+    <string name="day">日</string>
+    <string name="week">周</string>
+    <string name="month">月</string>
+    <string name="total">总</string>
+</resources>

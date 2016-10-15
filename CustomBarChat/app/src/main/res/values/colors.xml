@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="white_tran16_bg">#28ffffff</color>
+    <!--未选中-->
+    <color name="white_tran40_text">#66ffffff</color>
+    <!--选中-->
+    <color name="white_tran88_text">#E0ffffff</color>
+
+    <color name="white_tran30_bg">#4dffffff</color>
+    <color name="white_tran80_bg">#ccffffff</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="transparency">#00000000</color>
+    <color name="radio_blue_press">#86bcfb</color>
+    <color name="radio_blue_nor">#60a4f7</color>
+    <color name="learn_track_blue_bg">#4d97f6</color>
+    <color name="white_trans70_text">#b2ffffff</color>
+    <color name="white_trans80_text">#c8ffffff</color>
+    <color name="white_trans60_text">#99ffffff</color>
+    <color name="white_trans16_text">#29ffffff</color>
+
+
+</resources>
